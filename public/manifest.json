@@ -1,0 +1,18 @@
+{
+  "name": "Treino Academia",
+  "short_name": "Treino",
+  "description": "Sistema de treinos de academia - 5 dias",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
